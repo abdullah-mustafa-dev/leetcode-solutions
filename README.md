@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Binary Search Tree
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## String
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
