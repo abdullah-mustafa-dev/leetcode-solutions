@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -78,8 +80,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 <!---LeetCode Topics End-->
