@@ -42,4 +42,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
