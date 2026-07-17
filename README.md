@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -136,4 +139,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
