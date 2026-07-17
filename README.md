@@ -25,13 +25,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0735-asteroid-collision](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
