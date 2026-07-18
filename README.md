@@ -1,3 +1,5 @@
+My Data Structures & Algorithms practice — recursion, trees, BSTs, and general problem-solving — as part of a structured, mentor-guided study program. Auto-synced from LeetCode via LeetHub.
+
 # leetcode-solutions
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 
