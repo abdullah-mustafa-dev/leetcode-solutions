@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0676-implement-magic-dictionary](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0856-score-of-parentheses](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Stack
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0676-implement-magic-dictionary](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0676-implement-magic-dictionary/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0676-implement-magic-dictionary](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0687-longest-univalue-path](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0676-implement-magic-dictionary](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -153,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0676-implement-magic-dictionary](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0676-implement-magic-dictionary/) | Medium |
 <!---LeetCode Topics End-->
