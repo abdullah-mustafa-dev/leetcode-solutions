@@ -165,4 +165,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0610-triangle-judgement](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0610-triangle-judgement/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 <!---LeetCode Topics End-->
