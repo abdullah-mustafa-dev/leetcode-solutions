@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0180-consecutive-numbers/) | Medium |
+| [0183-customers-who-never-order](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0577-employee-bonus](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0610-triangle-judgement](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
