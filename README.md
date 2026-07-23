@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0595-big-countries/) | Easy |
 | [0610-triangle-judgement](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0610-triangle-judgement/) | Easy |
+| [0620-not-boring-movies](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1527-patients-with-a-condition/) | Easy |
 <!---LeetCode Topics End-->
