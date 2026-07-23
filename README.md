@@ -161,4 +161,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0676-implement-magic-dictionary](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0676-implement-magic-dictionary/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0610-triangle-judgement](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0610-triangle-judgement/) | Easy |
 <!---LeetCode Topics End-->
