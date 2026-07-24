@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0595-big-countries/) | Easy |
+| [0607-sales-person](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [0620-not-boring-movies](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
