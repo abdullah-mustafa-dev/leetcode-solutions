@@ -176,4 +176,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 <!---LeetCode Topics End-->
