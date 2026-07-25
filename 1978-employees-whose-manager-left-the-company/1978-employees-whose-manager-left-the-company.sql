@@ -1,8 +1,11 @@
 -- Write your PostgreSQL query statement below
-select e.employee_id
-from Employees e
-where e.salary < 30000 and e.manager_id not in (
-    select employee_id
-    from Employees
-)
-order by e.employee_id;
+SELECT e.employee_id
+FROM Employees e
+WHERE e.salary < 30000
+  AND e.manager_id IS NOT NULL
+  AND NOT EXISTS (
+      SELECT 1
+      FROM Employees m
+      WHERE m.employee_id = e.manager_id
+  )
+ORDER BY e.employee_id;
