@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1075-project-employees-i](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1075-project-employees-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
