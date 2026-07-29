@@ -1,8 +1,7 @@
--- Write your PostgreSQL query statement below
-select p.product_name, sum(o.unit) as unit
-from Products p
-join Orders o on o.product_id = p.product_id
-where o.order_date >= '2020-02-01'::date
-  and o.order_date < '2020-02-01'::date + '1 month'::interval
-group by product_name
-having sum(o.unit) >= 100;
+SELECT product_name, SUM(unit) AS unit
+FROM Orders AS o
+INNER JOIN Products
+USING(product_id)
+WHERE TO_CHAR(order_date, 'YYYY-MM') = '2020-02'
+GROUP BY product_id, product_name
+HAVING SUM(unit) >= 100;
