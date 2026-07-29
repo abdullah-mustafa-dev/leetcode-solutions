@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1070-product-sales-analysis-iii](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+| [1164-product-price-at-a-given-date](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1527-patients-with-a-condition/) | Easy |
