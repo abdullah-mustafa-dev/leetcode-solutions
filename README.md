@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0046-permutations](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0735-asteroid-collision](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0676-implement-magic-dictionary](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0676-implement-magic-dictionary/) | Medium |
@@ -188,4 +190,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
