@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0735-asteroid-collision](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Simulation
@@ -200,4 +201,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
