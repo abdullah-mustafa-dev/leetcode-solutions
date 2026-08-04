@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0735-asteroid-collision](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Heap (Priority Queue)
