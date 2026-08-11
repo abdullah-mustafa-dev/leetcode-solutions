@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0125-valid-palindrome](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0676-implement-magic-dictionary](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0856-score-of-parentheses](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
