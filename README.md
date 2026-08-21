@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0046-permutations](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -231,5 +233,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0853-car-fleet](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 <!---LeetCode Topics End-->
