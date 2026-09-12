@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0853-car-fleet](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -257,4 +260,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 <!---LeetCode Topics End-->
