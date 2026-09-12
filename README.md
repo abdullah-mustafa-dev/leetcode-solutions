@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [1200-minimum-absolute-difference](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0853-car-fleet](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [1200-minimum-absolute-difference](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
