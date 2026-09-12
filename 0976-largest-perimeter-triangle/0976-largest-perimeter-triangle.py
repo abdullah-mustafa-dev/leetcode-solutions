@@ -4,10 +4,7 @@ class Solution:
         maxArea = 0
 
         for i in range(len(nums) - 2):
-            a = nums[i]
-            b = nums[i + 1]
-            c = nums[i + 2]
-            if a + b > c and a + b + c > maxArea:
-                maxArea = a + b + c
+            if nums[i] + nums[i + 1] > nums[i + 2] and nums[i] + nums[i + 1] + nums[i + 2] > maxArea:
+                maxArea = nums[i] + nums[i + 1] + nums[i + 2]
 
         return maxArea
