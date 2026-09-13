@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0561-array-partition](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0735-asteroid-collision](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0561-array-partition](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0853-car-fleet](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -259,10 +261,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0912-sort-an-array](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
