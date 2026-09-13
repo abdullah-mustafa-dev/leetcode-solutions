@@ -1,11 +1,10 @@
 class Solution:
     def eliminateMaximum(self, dist: List[int], speed: List[int]) -> int:
-        monsters = sorted(zip(dist, speed), key=lambda x: x[0]/ x[1])
-    
-        count = 1
-        for i in range(1, len(monsters)):
-            time = monsters[i][0] / monsters[i][1]
-            if time <= count:
-                return count
-            count += 1
-        return count
+        arrival = [(d + s - 1) // s for d, s in zip(dist, speed)]
+        arrival.sort()
+
+        for i, t in enumerate(arrival):
+            if t <= i:
+                return i
+
+        return len(arrival)
