@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0735-asteroid-collision](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0561-array-partition](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0735-asteroid-collision](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 ## Hash Table
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -243,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0561-array-partition](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0853-car-fleet](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -269,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 ## Quicksort
