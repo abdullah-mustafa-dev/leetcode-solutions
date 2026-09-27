@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
