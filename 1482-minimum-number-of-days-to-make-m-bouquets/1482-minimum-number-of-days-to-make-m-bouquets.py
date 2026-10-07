@@ -12,6 +12,8 @@ class Solution:
                     if count == k:
                         total += 1
                         count = 0
+                    if total >= m:
+                        return True
                 else:
                     count = 0
                     
