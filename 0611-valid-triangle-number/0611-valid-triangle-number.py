@@ -1,20 +1,16 @@
 class Solution:
-    def triangleNumber(self, nums: list[int]) -> int:
-        ans = 0
-
+    def triangleNumber(self, nums):
+        count = 0
+        n = len(nums)
         nums.sort()
-        for i in range(len(nums) - 2):
-            for j in range(i + 1, len(nums) - 1):
-                target = nums[i] + nums[j]
-                idx = len(nums)
-                left, right = j + 1, len(nums) - 1
-                while left <= right:
-                    mid = (left + right) // 2
 
-                    if nums[mid] >= target:
-                        right = mid - 1
-                        idx = mid
-                    else:
-                        left = mid + 1
-                ans += (idx - j - 1)
-        return ans
+        for i in range(n - 2):
+            k = i + 2  
+            for j in range(i + 1, n - 1):
+                if nums[i] == 0:
+                    break
+                while k < n and nums[i] + nums[j] > nums[k]:
+                    k += 1
+                count += k - j - 1
+
+        return count
