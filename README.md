@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0436-find-right-interval](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0436-find-right-interval/) | Medium |
+| [0611-valid-triangle-number](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0561-array-partition](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0611-valid-triangle-number](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0735-asteroid-collision](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0611-valid-triangle-number](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -258,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0561-array-partition](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0611-valid-triangle-number](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0853-car-fleet](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -286,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0561-array-partition](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0611-valid-triangle-number](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/abdullah-mustafa-dev/leetcode-solutions/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 ## Quicksort
